@@ -1,0 +1,80 @@
+.main-page {
+  height: 100vh;
+  background-color: #f0f1f5;
+}
+.sidebar {
+  background-color: #ffff;
+  height: 100vh;
+}
+.mid-content {
+  height: 100vh;
+}
+
+.nav-link {
+  color: black;
+}
+.nav-item {
+  margin: 5px;
+}
+.nav-link:hover {
+  background-color: #fbefeb;
+  border: 1px solid red;
+  border-radius: 5px;
+  color: black;
+}
+section {
+  height: 100vh;
+}
+.nav-link-2 {
+  border: 1px solid red;
+  border-radius: 5px;
+}
+.pizza-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 15px;
+  width: 200px;
+  text-align: left;
+}
+
+.card img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.show-more-btn {
+  margin-top: 20px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+.pizza-container {
+  overflow-y: scroll;
+  height: 50vh;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}

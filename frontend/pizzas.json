@@ -1,0 +1,56 @@
+[
+  {
+    "imageSrc": "path/to/pizza-image-1.jpg",
+    "title": "Margherita",
+    "price": 9.99,
+    "ingredientButton": "View Ingredients"
+  },
+  {
+    "imageSrc": "path/to/pizza-image-2.jpg",
+    "title": "Pepperoni",
+    "price": 12.99,
+    "ingredientButton": "View Ingredients"
+  },
+  {
+    "imageSrc": "path/to/pizza-image-3.jpg",
+    "title": "BBQ Chicken",
+    "price": 14.99,
+    "ingredientButton": "View Ingredients"
+  },
+  {
+    "imageSrc": "path/to/pizza-image-1.jpg",
+    "title": "Margherita",
+    "price": 9.99,
+    "ingredientButton": "View Ingredients"
+  },
+  {
+    "imageSrc": "path/to/pizza-image-2.jpg",
+    "title": "Pepperoni",
+    "price": 12.99,
+    "ingredientButton": "View Ingredients"
+  },
+  {
+    "imageSrc": "path/to/pizza-image-3.jpg",
+    "title": "BBQ Chicken",
+    "price": 14.99,
+    "ingredientButton": "View Ingredients"
+  },
+  {
+    "imageSrc": "path/to/pizza-image-1.jpg",
+    "title": "Margherita",
+    "price": 9.99,
+    "ingredientButton": "View Ingredients"
+  },
+  {
+    "imageSrc": "path/to/pizza-image-2.jpg",
+    "title": "Pepperoni",
+    "price": 12.99,
+    "ingredientButton": "View Ingredients"
+  },
+  {
+    "imageSrc": "path/to/pizza-image-3.jpg",
+    "title": "BBQ Chicken",
+    "price": 14.99,
+    "ingredientButton": "View Ingredients"
+  }
+]
